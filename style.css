@@ -1,0 +1,10 @@
+      
+	  body{
+          font-weight:bold;
+        }
+		#division{
+			width:200px;
+			height:200px;
+			background-color:red;
+			position:relative;
+		}
